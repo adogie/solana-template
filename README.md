@@ -1,5 +1,5 @@
 # solana-template
-a solana hello world app
+a solana bank simulator app
 
 # 注意事项
 
